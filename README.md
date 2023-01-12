@@ -1,7 +1,7 @@
 
 # Criação de Formulário 
 
-O projeto trata-se de um Formulário, seguindo o modelo de loyout disponibilizado no figma pelo programa Explorer, da Rocketseat.
+O projeto trata-se de um Formulário de mentoria, seguindo o modelo de loyout disponibilizado no figma pelo programa Explorer, da Rocketseat.
 
 
 ## Utilizou-se para a construção do projeto: 
